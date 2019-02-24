@@ -1,0 +1,7 @@
+C:\Users\wight\source\repos\LinkedListPractice\LinkedListPractice\bin\Debug\LinkedListPractice.exe.config
+C:\Users\wight\source\repos\LinkedListPractice\LinkedListPractice\bin\Debug\LinkedListPractice.exe
+C:\Users\wight\source\repos\LinkedListPractice\LinkedListPractice\bin\Debug\LinkedListPractice.pdb
+C:\Users\wight\source\repos\LinkedListPractice\LinkedListPractice\obj\Debug\LinkedListPractice.csprojAssemblyReference.cache
+C:\Users\wight\source\repos\LinkedListPractice\LinkedListPractice\obj\Debug\LinkedListPractice.csproj.CoreCompileInputs.cache
+C:\Users\wight\source\repos\LinkedListPractice\LinkedListPractice\obj\Debug\LinkedListPractice.exe
+C:\Users\wight\source\repos\LinkedListPractice\LinkedListPractice\obj\Debug\LinkedListPractice.pdb
